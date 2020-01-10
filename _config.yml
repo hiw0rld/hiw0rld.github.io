@@ -31,7 +31,7 @@ plugins:
 
 sidebar: true                           # 是否开启侧边栏.
 sidebar-about-description: "说点装逼的话。。。"
-sidebar-avatar: /img/avatar-by.JPG
+#sidebar-avatar: /img/avatar-by.JPG
 
 # Exclude from processing.
 # The following items will not be processed, by default.
